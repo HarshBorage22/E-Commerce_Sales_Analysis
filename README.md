@@ -41,8 +41,6 @@
 - [Stacked column Chart](https://www.tutorialgateway.org/power-bi-stacked-bar-chart/) Visual showing the sales by Category.
 - [Pie Chart](https://www.tutorialgateway.org/pie-chart-in-power-bi/) Visual showing the Sales by Sub-Category.
 
-<hr>
-
 
 https://user-images.githubusercontent.com/121333630/213703710-defd37ca-161b-4620-b463-a802f0f18d3d.mp4
 
