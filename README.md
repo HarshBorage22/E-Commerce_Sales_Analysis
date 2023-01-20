@@ -44,6 +44,35 @@
 
 https://user-images.githubusercontent.com/121333630/213703710-defd37ca-161b-4620-b463-a802f0f18d3d.mp4
 
+<hr>
+
+
+## Preview or Access the Responsive DashBoard from below link-  
+
+- ### [Access The live Responsive DashBoard Here](https://app.powerbi.com/view?r=eyJrIjoiYmJlYzA1MzYtMDBiYy00MGQ4LWJkYmUtOTY0MDUzZDk2OGY0IiwidCI6IjM1ODA0OGExLTMxODUtNDc0ZS04NThjLWE5Mzg0MGE0NjU5ZiJ9&pageName=ReportSection)
+
+- ### [DashBoard Presented in PDF format](https://github.com/HarshBorage22/E-Commerce_Sales_Analysis/blob/main/Ecom%20Analysis.pdf)
+
+<hr>
+
+## 🛠 Skills
+Data Analysis And Visualization, Power BI.
+<hr>
+
+## Author
+
+- [@HarshBorage22](https://www.github.com/HarshBorage22)
+
+<hr>
+
+## Feedback
+
+If you have any feedback, please reach out to me at harshborage.22@gmail.com
+
+<hr>
+
+
+
 
 
 
